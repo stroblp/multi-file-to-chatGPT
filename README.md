@@ -16,6 +16,8 @@ To get started with this tool, follow these steps:
 
 In addition, you can use the "Init ChatGPT" button to copy initial instructions to your clipboard, which can be helpful for getting started.
 
+For testing use the app-to-correct directory. This app can be copied to chatGPT for improvments in appearance and functionality 
+
 ## Contributing
 
 This is an open-source project, and we welcome contributions from anyone. If you have any bug reports, feature requests, or code improvements, please feel free to submit them through GitHub issues and pull requests.
